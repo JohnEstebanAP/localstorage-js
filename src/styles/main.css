@@ -47,13 +47,13 @@ body {
   background: rgb(175,166,166);
 }
 
-.button-eliminar{
+.boton-eliminar{
   background: black;
   color: white;
   border: none;
 }
 
-.button-eliminar:hover{
+.boton-eliminar:hover{
   background: red;
 }
 
